@@ -1,4 +1,4 @@
-module github.com/DaniloJNS/algorithms
+module github.com/DaniloJNS/algorithms-and-data-strutures-in-go
 
 go 1.21.5
 
