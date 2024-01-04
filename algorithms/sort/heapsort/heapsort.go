@@ -3,7 +3,7 @@ package heapsort
 import (
 	"fmt"
 
-	HeapTree "github.com/DaniloJNS/algorithms/data-structures/tree/heaptree"
+	HeapTree "github.com/DaniloJNS/algorithms-and-data-strutures-in-go/data-strutures/trees/heaptree"
 )
 
 
